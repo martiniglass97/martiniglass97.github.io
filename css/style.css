@@ -1,0 +1,16 @@
+.chairs {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+model-viewer {
+    width: 100%;
+    height: 23rem;
+}
+
+.Hotspot {
+    border: 0;
+    background-color: rgba(240, 248, 255, 0);
+}
+.HotspotAnnotation img {
+    height: 10rem;
+}
